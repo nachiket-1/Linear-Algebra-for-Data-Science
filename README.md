@@ -27,9 +27,7 @@ The main content is available in two formats:
 
 Navigate to the [linear_algebra_tutorial.md](linear_algebra_tutorial.md) file in this repository to view the content.
 
-### Downloading PDF
 
-Download the [linear_algebra_tutorial.pdf](linear_algebra_tutorial.pdf) file for offline reading or better rendering of mathematical equations.
 
 ## Contributing
 
